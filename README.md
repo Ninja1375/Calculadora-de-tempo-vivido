@@ -24,19 +24,19 @@ O design é feito considerando o tempo atual, e os valores são atualizados em t
 
 ***Os resultados são apresentados de forma clara e organizados em uma lista, incluindo:***
 
-Anos
+- Anos
 
-Meses
+- Meses
 
-Semanas
+- Semanas
 
-Dias
+- Dias
 
-Horas
+- Horas
 
-Minutos
+- Minutos
 
-Segundos
+- Segundos
 
 **Atualização Contínua:**
 
@@ -51,6 +51,8 @@ O design é simples e moderno, com um layout responsivo que se adapta a diferent
 O objetivo principal deste projeto é demonstrar como calcular e apresentar dados temporais de maneira eficiente e interativa. Ele serve como um exemplo de como usar JavaScript para manipulação de dados, além de aplicar conceitos de validação de entrada e atualização dinâmica de conteúdo . Além disso, uma interface simples permite fácil personalização e integração com outros tipos de projetos ou funcionalidades.
 
 ## Tecnologias Utilizadas:
+
+<a href="https://programartudo.blogspot.com/2024/11/html-tudo-o-que-precisa-para-comecar.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/css-como-dar-estilo-ao-teu-website.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/></a> <a href="https://programartudo.blogspot.com/2024/11/javascript-linguagem-dinamica-da-web.html" target="_blank"><img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
 
 **HTML:** Estrutura da página web e formulário de entrada.
 
