@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculadora de Tempo Vivido</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Calculadora de Tempo Vivido</h1>
+    <form id="timeCalculator">
+      <label for="birthDate">Data e Hora de Nascimento:</label>
+      <input type="datetime-local" id="birthDate">
+      <button type="submit">Calcular</button>
+    </form>
+    <div id="result" class="hidden">
+      <h2>Tempo Vivido</h2>
+      <ul>
+        <li><strong>Anos:</strong> <span id="years">0</span></li>
+        <li><strong>Meses:</strong> <span id="months">0</span></li>
+        <li><strong>Semanas:</strong> <span id="weeks">0</span></li>
+        <li><strong>Dias:</strong> <span id="days">0</span></li>
+        <li><strong>Horas:</strong> <span id="hours">0</span></li>
+        <li><strong>Minutos:</strong> <span id="minutes">0</span></li>
+        <li><strong>Segundos:</strong> <span id="seconds">0</span></li>
+      </ul>
+    </div>
+  </div>
+  <script src="script.js"></script>
+</body>
+</html>
