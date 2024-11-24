@@ -1,3 +1,7 @@
+**Veja o projeto ao vivo:**
+
+**[Calculadora de Tempo Vivido](https://ninja1375.github.io/Calculadora-de-tempo-vivido/)**
+
 Este é um projeto web simples criado para calcular o **tempo vívido** de uma pessoa a partir de seus dados e hora de nascimento. Usando tecnologias HTML, CSS e JavaScript, a calculadora oferece uma maneira fácil e interativa de visualizar quanto tempo uma pessoa viveu, apresentando os resultados em anos, meses, semanas, dias, horas, minutos e segundos.
 
 # Funcionalidades:
