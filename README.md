@@ -19,13 +19,20 @@ O design é feito considerando o tempo atual, e os valores são atualizados em t
 **Exposição de Resultados:**
 
 ***Os resultados são apresentados de forma clara e organizados em uma lista, incluindo:***
-**Anos
+
+Anos
+
 Meses
+
 Semanas
+
 Dias
+
 Horas
+
 Minutos
-Segundos**
+
+Segundos
 
 **Atualização Contínua:**
 
